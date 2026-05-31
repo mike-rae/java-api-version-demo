@@ -7,8 +7,8 @@ It contains a simple `UserController` with six endpoints that return slightly di
 The three versioning strategies demonstrated are:
 
 1. URI path versioning
-2. Vendor media type versioning
-3. Custom request header versioning
+2. Custom request header versioning
+3. Vendor media type versioning
 
 ---
 
